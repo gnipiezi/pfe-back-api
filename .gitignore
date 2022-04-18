@@ -1,0 +1,6 @@
+# ignore lib directory 
+/lib
+/Include
+
+
+pyvenv.cfg
